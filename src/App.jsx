@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="App">
       <button onClick={clickFn}>Click here!</button>
-      {newCount}
+       {newCount}
     </div>
   );
 }
